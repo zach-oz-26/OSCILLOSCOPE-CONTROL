@@ -10,7 +10,7 @@ This project provides a LabVIEW-based control interface for an Integrating Curre
     *   USB or LAN (ensure the instrument is recognized in NI MAX and the VISA Resource Name is properly assigned).
 *   **Drivers:**
     *   NI-VISA (for instrument communication)
-    *   Agilent 2000/3000 X-Series Plug and Play Instrument Driver
+    *   [Agilent 2000/3000 X-Series Plug and Play Instrument Driver](https://sine.ni.com/apps/utf8/niid_web_display.download_page?p_id_guid=9E84674573AF6AB8E0440021287E6A9E)
 
 ## Installation & Setup
 1. Clone or download the repository to your local machine.
