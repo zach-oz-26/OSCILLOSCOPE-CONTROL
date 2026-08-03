@@ -6,7 +6,8 @@ This project provides a LabVIEW-based control interface for an Integrating Curre
 ## System Requirements
 *   **LabVIEW Version:** 2026 Q1
 *   **Hardware Dependencies:**
-    *   Keysight InfiniiVision DSOX2024A 
+    *   Keysight InfiniiVision DSOX2024A
+    *   Bergoz BCM-IHR-E
     *   USB or LAN (ensure the instrument is recognized in NI MAX and the VISA Resource Name is properly assigned).
 *   **Drivers:**
     *   NI-VISA (for instrument communication)
